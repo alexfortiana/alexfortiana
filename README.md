@@ -6,7 +6,7 @@ Full Stack web developer who relies on a passion for learning, acute attention t
 
 ### Languages and Tools:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="drawing" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="drawing" width="50"/>
 
 [![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
