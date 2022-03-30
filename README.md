@@ -6,9 +6,7 @@ Full Stack web developer who relies on a passion for learning, acute attention t
 
 ### Languages and Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="drawing" width="50"/></a>
-
-<a href="https://es.wikipedia.org/wiki/HTML"><img src="https://img2.freepng.es/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg" alt="drawing" width="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="drawing" width="50"/></a><a href="https://es.wikipedia.org/wiki/HTML"><img src="https://img2.freepng.es/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg" alt="drawing" width="50"/></a>
 
 <a href="https://es.wikipedia.org/wiki/css"><img src="https://w7.pngwing.com/pngs/604/592/png-transparent-css3-cascading-style-sheets-logo-html-beautify-blue-angle-text-thumbnail.png" alt="drawing" width="50"/></a>
 
