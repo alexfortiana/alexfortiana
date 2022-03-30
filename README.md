@@ -1,6 +1,6 @@
-### README.md
+###  My name is Alex and I'm a 32 y/o web developer from Barcelona, Spain.
 
-My name is Alex and I'm a 32 y/o web developer from Barcelona, Spain.
+<hr/>
 
 Full Stack web developer who relies on a passion for learning, acute attention to detail and effective communication to deliver exceptional results. Motivated, proactive, organized and willing to work to be able to show the knowledge acquired. Communication skills and skills to prepare in a team.
 
