@@ -24,7 +24,7 @@ Full Stack web developer who relies on a passion for learning, acute attention t
 
 ### Connect with me:
 
-- [Linkedin](https://www.linkedin.com/in/alexfortiana/ target="_blank")
+- <a href="https://www.linkedin.com/in/alexfortiana/" target="_blank">
 
 - [Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=[alexfortiana@gmail.com])
 
