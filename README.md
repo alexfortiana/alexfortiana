@@ -26,7 +26,7 @@ Full Stack web developer who relies on a passion for learning, acute attention t
 
 - <a href="https://www.linkedin.com/in/alexfortiana/" target="_blank">Linkedin</a>
 
-- [Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=[alexfortiana@gmail.com]) {:target="_blank" rel="noopener"}
+- [Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=[alexfortiana@gmail.com]){target="_blank"}
 
 
 
