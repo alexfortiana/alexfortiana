@@ -1,7 +1,5 @@
-![Alex Fortiana](https://res.cloudinary.com/alexfurty/image/upload/v1654719599/codegram-project/dgthsjjmbdsts1q9vroy.png)
-
 <p align="center">
-  <img width="600" height="200" src="https://www.python.org/python-.png">
+  <img alt="Alex Fortiana" width="600" height="200" src="https://res.cloudinary.com/alexfurty/image/upload/v1654719599/codegram-project/dgthsjjmbdsts1q9vroy.png">
 </p>
 <hr/>
 
