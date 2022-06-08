@@ -1,4 +1,4 @@
-![Alex Fortiana](https://files.fm/u/c586v7kyd#/view/nwggxxrzh)
+![Alex Fortiana](https://res.cloudinary.com/alexfurty/image/upload/v1654719599/codegram-project/dgthsjjmbdsts1q9vroy.png)
 
 <hr/>
 
