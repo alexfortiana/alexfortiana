@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Alex Fortiana" width="600" height="200" src="https://res.cloudinary.com/alexfurty/image/upload/v1654719599/codegram-project/dgthsjjmbdsts1q9vroy.png">
+  <img alt="Alex Fortiana" src="https://res.cloudinary.com/alexfurty/image/upload/v1654719599/codegram-project/dgthsjjmbdsts1q9vroy.png">
 </p>
 <hr/>
 
