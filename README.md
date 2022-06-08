@@ -1,4 +1,4 @@
-![Alex Fortiana](https://drive.google.com/file/d/1ncJNueXiI2AUVUf5WUPAYl6fumwzafct/view?usp=sharing)
+![Alex Fortiana](https://files.fm/u/c586v7kyd)
 
 <hr/>
 
