@@ -21,9 +21,8 @@ Full Stack web developer who relies on a passion for learning, acute attention t
 - 🔭 I’m currently looking for a job as a junior developer where I can apply all my knowledge and continue learning.
 - 🌱 I’m currently learning to use other technologies such as: Typescript and graphQL.  
 - 😄 Hobbies: Sports, Domotic, Sommelier and music producer.
-- ⚡ Languages: CAT, ES, EN, DE
 
-### Connect with me:
+### Connect me:
 
 - <a href="https://www.linkedin.com/in/alexfortiana/" target="_blank">Linkedin</a>
 
