@@ -18,8 +18,8 @@ Full Stack web developer who relies on a passion for learning, acute attention t
 
 ### What I do:
 
-- 🔧 I’m currently working in Lorum as a junior developer with SAP technologies.
-- 🌱 I’m currently learning to use other technologies such as: Typescript and graphQL.  
+- 🔧 I’m currently working with SAP technologies.
+- 🌱 I’m currently learning to use other technologies such as: Electron, Flutter & Swift.  
 - 😄 Hobbies: Sports, Domotic, Sommelier and music producer.
 
 ### Connect me:
