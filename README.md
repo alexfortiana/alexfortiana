@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="Alex Fortiana" src="https://res.cloudinary.com/alexfurty/image/upload/v1654719599/codegram-project/dgthsjjmbdsts1q9vroy.png">
-</p>
+
 <hr/>
 
 Full Stack web developer who relies on a passion for learning, acute attention to detail and effective communication to deliver exceptional results. Motivated, proactive, organized and willing to work to be able to show the knowledge acquired. Communication skills and skills to prepare in a team.
